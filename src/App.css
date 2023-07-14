@@ -1,5 +1,5 @@
 .App {
-  max-width: 600px;
+  max-width: 650px;
   margin: 10px auto;
 }
 
@@ -10,4 +10,5 @@ h2 {
 .App footer {
   font-size: 12px;
   margin: 12px 0;
+  text-align: center;
 }

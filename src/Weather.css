@@ -28,6 +28,7 @@
 
 .weather img {
   height: 64px;
+  margin-right: 10px;
   display: inline-block;
 }
 
@@ -37,4 +38,14 @@
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
+}
+
+.weather .unit {
+  color: rgb(33, 33, 33);
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  line-height: 1px;
+  top: -34px;
+  margin-left: 5px;
 }
