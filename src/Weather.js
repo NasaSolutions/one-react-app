@@ -25,7 +25,7 @@ export default function Weather() {
       </form>
       <h1>New York</h1>
       <ul>
-        <li>Friday 07:00:00</li>
+        <li>Wednesday 07:00:00</li>
         <li>Mostly Cloudy</li>
       </ul>
       <div className="row mt-3">
@@ -34,10 +34,12 @@ export default function Weather() {
             <img
               src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
               alt="Mostly Cloudy"
+              className="float-left"
             />
-
-            <span className="temperature">6</span>
-            <span className="unit">℃</span>
+            <div className="float-left">
+              <span className="temperature">6</span>
+              <span className="unit">℃</span>
+            </div>
           </div>
         </div>
         <div className="col-6">
