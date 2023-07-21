@@ -17,7 +17,7 @@ export default function App() {
             href="https://www.linkedin.com/in/chinasa-iweajunwa-83a0a6178/"
             target="blank"
           >
-            Chinasa Emmanuel
+            Chinasa Iweajunwa
           </a>{" "}
           and is{" "}
           <a
